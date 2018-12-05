@@ -25,9 +25,9 @@ var source = {
 
 source = {
   width     : 800,
-  height    : 480,
+  height    : 384,
 
-  video_path     : "/var/local/lib/afm/applications/sdl/5.0/htdocs/storage/video_stream_pipe",
+  video_path     : "/var/local/lib/afm/applications/sdl_usb/5.0/htdocs/storage/video_stream_pipe",
   video_duration : 58,
 };
 //  video_path     : "/home/nedl/workspaces/git/build/bin/storage/video_stream_pipe",
